@@ -1,0 +1,1 @@
+Just some tests with a 4 node min.io storage cluster and n/2 redundancy
